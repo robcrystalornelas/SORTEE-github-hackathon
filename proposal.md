@@ -1,3 +1,5 @@
+# SORTEE 2021 hackathon proposal
+
 **Topic and aim of the Hackathon (20-100 characters, including spaces)**
 Collaborate on a manuscript discussing the ways Ecologists and Evolutionary Biologists use GitHub.
  
@@ -21,8 +23,8 @@ Depending on the number of attendees, participants will move into one of five br
 
 We will end the session by discussing our plans for moving the manuscript forward including writing a blogpost, a preprint of the manuscript, and then ultimately a manuscript for a peer-reviewed journal.
 
-**Who could actively participate in the Hackathon? While all conference attendees should feel welcome to watch the Hackathon, if specialised skills would be required for active participation, please describe the level of proficiency advisable for active participants. (20-300 characters, including spaces).
-**
+**Who could actively participate in the Hackathon? While all conference attendees should feel welcome to watch the Hackathon, if specialised skills would be required for active participation, please describe the level of proficiency advisable for active participants. (20-300 characters, including spaces).**
+
 Basic knowledge of GitHub may be helpful, anyone who collaborates on documents, website development, manuscripts or is interested in data- and code-sharing policies could contribute to the more general question of “How can collaboration and data sharing be made easier in Ecology and Evolution?”.
 
 **Please describe what the participants would find engaging about participating in the Hackathon (100-300 characters, including spaces).**
